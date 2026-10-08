@@ -1,0 +1,38 @@
+[
+  {
+    "ID": 101,
+    "Title": "Retrospective: 40 Years of Archival Preservation and LGBTQ+ Cultural Legacy",
+    "Clean Title": "Retrospective: 40 Years of Archival Preservation and LGBTQ+ Cultural Legacy",
+    "CanonicalSlug": "101-retrospective-40-years-archival-preservation",
+    "Slug": "retrospective-40-years-archival-preservation",
+    "Date": "2024-06-15T10:00:00Z",
+    "Category": "Exhibitions",
+    "Tags": ["Archival History", "Retrospective", "Foundation Milestones"],
+    "Excerpt": "A milestone survey charting four decades of preserving cultural resistance, historical documentation, and institutional memory across international artist residencies.",
+    "First High-Res Image": "https://images.unsplash.com/photo-1579783900882-c0d3dad7b119?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "ID": 102,
+    "Title": "Collection Spotlight: Master Ink Studies and Unseen Graphic Proofs (1978–1984)",
+    "Clean Title": "Collection Spotlight: Master Ink Studies and Unseen Graphic Proofs",
+    "CanonicalSlug": "102-collection-spotlight-master-ink-studies",
+    "Slug": "collection-spotlight-master-ink-studies",
+    "Date": "2024-08-20T14:30:00Z",
+    "Category": "Permanent Collection",
+    "Tags": ["Works on Paper", "Catalog Raisonné", "Restoration"],
+    "Excerpt": "Detailed examination of high-resolution digital captures unveiling conservation notes, margin inscriptions, and preliminary graphite gestures in the permanent holdings.",
+    "First High-Res Image": "https://images.unsplash.com/photo-1541701494587-cb58502866ab?auto=format&fit=crop&w=1200&q=80"
+  },
+  {
+    "ID": 103,
+    "Title": "Annual Fellowship Announcements: Advancing Emerging Cultural Research & Curatorial Grants",
+    "Clean Title": "Annual Fellowship Announcements: Advancing Emerging Cultural Research",
+    "CanonicalSlug": "103-annual-fellowship-announcements",
+    "Slug": "annual-fellowship-announcements",
+    "Date": "2024-11-05T09:00:00Z",
+    "Category": "Grants & Programs",
+    "Tags": ["Fellowship", "Curatorial Research", "Open Calls"],
+    "Excerpt": "Welcoming our 2025 resident scholars exploring digital provenance, linked open data in contemporary archives, and community-driven oral histories.",
+    "First High-Res Image": "https://images.unsplash.com/photo-1513364776144-60967b0f800f?auto=format&fit=crop&w=1200&q=80"
+  }
+]

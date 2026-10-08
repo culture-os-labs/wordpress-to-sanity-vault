@@ -1,0 +1,19 @@
+# ==============================================================================
+# WordPress to Sanity Vault — Dependencies
+# Maintained by CultureOS Labs (https://cultureos.dev)
+# ==============================================================================
+#
+# 🎉 ZERO EXTERNAL DEPENDENCIES REQUIRED!
+#
+# All tooling in this repository is built using the Python Standard Library:
+#   - urllib.request, urllib.error (Pure HTTP REST calls)
+#   - json (NDJSON & document serialization)
+#   - argparse (CLI interface)
+#   - os, sys, time
+#
+# Tested on Python 3.8, 3.9, 3.10, 3.11, 3.12, 3.13.
+#
+# Simply run:
+#   python3 scripts/sanity_direct_sync.py --help
+#   python3 scripts/sanity_ndjson_exporter.py --help
+# ==============================================================================
